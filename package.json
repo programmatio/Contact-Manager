@@ -1,0 +1,22 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "Example scaffolding for contact manager build with Angular 2 and Express running on Node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmatio/Contact-Manager.git"
+  },
+  "author": "M Spogis <max.spogis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/programmatio/Contact-Manager/issues"
+  },
+  "homepage": "https://github.com/programmatio/Contact-Manager#readme"
+}
